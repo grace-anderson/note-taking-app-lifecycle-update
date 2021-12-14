@@ -1,2 +1,2 @@
-# note-taking-app-lifecycle-update
+# note-taking-app
 Created with CodeSandbox
